@@ -5,6 +5,7 @@
 * Email Address: SamuelRyan@dayrep.com
 3. #### Summary 
 Diligent software engineer with 5+ years of experience in commercial application and software development. Eager to join Cyclone Inc. to build innovative and cutting-edge business solutions for the impressive suite of clients within its global reach. In previous roles, slashed downtime by 25% and ensured 98% on-time project completion. Also identified and dealt with a significant process bottleneck that boosted coding efficiency by 35% when resolved.
+
 4. #### Skills 
 * Agile
 * Managing Cross-Functional Teams
